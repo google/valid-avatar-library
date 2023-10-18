@@ -45,8 +45,3 @@ If you are using an avatar with long hair, you need to apply the hair shader in 
  - **Steve Zelenty (University of Central Florida)** - Conducted design interviews
  - **Mar Gonzalez-Franco (Google)** - Advised the project and created visualizations 
  - **Ryan P. McMahan (University of Central Florida)** - Advised the project, designed and conducted the validation study, and created visualizations 
-
-
-
-This template uses the Apache license, as is Google's default.  See the
-documentation for instructions on using alternate license.
