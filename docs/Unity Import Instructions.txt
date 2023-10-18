@@ -1,0 +1,13 @@
+All avatars have embedded textures and materials. Unity usually does not extract them automatically. Below are instructions on importing and animating sample avatars
+
+1. Import the avatar into your Assets folder
+2. Using the Inspector, go to the "Materials" tab of the asset's Import Settings 
+3. Click "Extract textures" and "Extract Materials"
+4. Go to the"Rig" tab of the asset's Import Settings
+5. Select Animation Type: Humanoid 
+6. Select "Create From This Model" 
+
+Avatars should now be ready to animate.
+
+NOTE: 
+If you are using an avatar with long hair, you need to apply the hair shader in /HairShader to the wig game object to turn off mesh culling. By default, Unity culls two-sided meshes. 
