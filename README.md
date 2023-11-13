@@ -4,8 +4,8 @@ We present VALID, a validated avatar library for inclusivity and diversity creat
 The library features avatars of American Indian and Alaskan Native (AIAN), Asian, Black, Hispanic, Middle Eastern and North African (MENA) Native Hawaiian and Pacific Islander (NHPI), and White ethnicities, providing a diverse selection for researchers to use in their studies. The **perceptually validated**  labels can facilitate research on the impact of avatar race, and researchers can choose to use the labels for studies aimed at individuals from different racial backgrounds or same-race labels for specific study populations. Avatars were created using a process that combined data-driven average facial features with extensive collaboration with representative stakeholders from each racial group. 
 
 
-NOTE: Further updates of this library will be available at the XRT Lab from University of Central Florida:
-https://github.com/xrtlab/Validated-Avatar-Library-for-Inclusion-and-Diversity---VALID/
+**NOTE: Further updates of this library will be available at the XRT Lab from University of Central Florida:
+https://github.com/xrtlab/Validated-Avatar-Library-for-Inclusion-and-Diversity---VALID/**
 
 
 The perception of each avatar's race and gender were evaluated on a global scale. We conducted a large online study ($n=132$) with participants from 33 countries, self-identifying as one of the seven represented races, to determine how the avatars are perceived. The statistically validated labels for each avatar can be found in the chart below, and also in the paper. Please note that different communities may perceive the race of an avatar differently, particularly within community (same-race). 
@@ -18,10 +18,9 @@ If you are using the library in your work, please cite the preprint (https://doi
       title={VALID: A perceptually validated Virtual Avatar Library for Inclusion and Diversity}, 
       author={Tiffany D. Do and Steve Zelenty and Mar Gonzalez-Franco and Ryan P. McMahan},
       year={2023},
-      eprint={2309.10902},
-      archivePrefix={arXiv},
+      archivePrefix={Frontiers in Virtual Reality},
       primaryClass={cs.HC},
-      doi={10.48550/arXiv.2309.10902}
+      doi={10.3389/frvir.2023.1248915}
     }
 
 
