@@ -1,0 +1,47 @@
+﻿Avatar,Ethnicity (all),Ethnicity (Within),Gender (All)
+AIAN_M_1,AIAN,AIAN,Male
+AIAN_M_2,AIAN,AIAN,Male
+AIAN_F_1,AIAN/Hispanic,AIAN,Female
+AIAN_F_2,AIAN/Hispanic,AIAN,Female
+Asian_M_1,Asian,Asian,Male
+Asian_M_2,Asian,Asian,Male
+Asian_M_3,Asian,Asian,Male
+Asian_F_1,Asian,Asian,Female
+Asian_F_2,Asian,Asian,Female
+Asian_F_3,Asian,Asian,Female
+Black_M_1,Black,Black,Male
+Black_M_2,Black,Black,Male
+Black_M_3,Black,Black,Male
+Black_F_1,Black,Black,Female
+Black_F_2,Black,Black,Female
+Black_F_3,Black,Black,Female
+Hispanic_M_1,Hispanic/White,Hispanic,Male
+Hispanic_M_2,White,Hispanic,Male
+Hispanic_M_3,Hispanic/White,Hispanic,Male
+Hispanic_F_1,Hispanic,Hispanic,Female
+Hispanic_F_2,White,Hispanic,Female
+Hispanic_F_3,Hispanic/White,Hispanic/White,Female
+MENA_M_1,Hispanic/MENA/White,MENA,Male
+MENA_M_2,MENA/White,MENA/White,Male
+MENA_M_3,MENA/White,MENA/White,Male
+MENA_F_1,Hispanic/White,MENA/White,Female
+MENA_F_2,White,MENA/White,Female
+NHPI_M_1,NHPI,NHPI,Male
+NHPI_M_2,Hispanic/NHPI,NHPI,Male
+NHPI_F_1,Hispanic/NHPI,AIAN/Hispanic/NHPI,Female
+White_M_1,White,White,Male
+White_M_2,White,White,Male
+White_M_3,White,White,Male
+White_F_1,White,White,Female
+White_F_2,White,White,Female
+White_F_3,White,White,Female
+X_AIAN_M_1,Hispanic,Hispanic,Male
+X_AIAN_F_1,Hispanic,Hispanic,Female
+X_MENA_F_1,Hispanic/White,White,Female
+X_NHPI_M_1,Hispanic/NHPI,Asian,Male
+X_NHPI_F_1,Hispanic,Ambiguous*,Female
+X_NHPI_F_2,Hispanic,Ambiguous**,Female
+,,,
+,,,
+*Cochran's Q test detected no significant differences among ethnicities,,,
+**Within-ethnicity NHPI participants did not validate this avatar with any label,,,
