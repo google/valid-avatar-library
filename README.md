@@ -10,7 +10,7 @@ https://github.com/xrtlab/Validated-Avatar-Library-for-Inclusion-and-Diversity--
 
 The perception of each avatar's race and gender were evaluated on a global scale. We conducted a large online study ($n=132$) with participants from 33 countries, self-identifying as one of the seven represented races, to determine how the avatars are perceived. The statistically validated labels for each avatar can be found in the chart below, and also in the paper. Please note that different communities may perceive the race of an avatar differently, particularly within community (same-race). 
 
-Additional metadata, including agreement rates disaggregated by all participant backgrounds, are found in the Metadata folder. Please read the paper for more detailed information. 
+Additional metadata, including agreement rates disaggregated by all participant backgrounds, are found in the Metadata folder. As well as the summary of Validated-Labels https://github.com/google/valid-avatar-library/blob/main/Metadata/Agreement-Rates/Validated-Labels.csv Please read the paper for more detailed information. 
 
 If you are using the library in your work, please cite the preprint (https://doi.org/10.48550/arXiv.2309.10902): 
 
