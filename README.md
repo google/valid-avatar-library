@@ -12,7 +12,7 @@ The perception of each avatar's race and gender were evaluated on a global scale
 
 Additional metadata, including agreement rates disaggregated by all participant backgrounds, are found in the Metadata folder. As well as the summary of Validated-Labels https://github.com/google/valid-avatar-library/blob/main/Metadata/Agreement-Rates/Validated-Labels.csv Please read the paper for more detailed information. 
 
-If you are using the library in your work, please cite:  https://doi.org/10.3389/frvir.2023.1248915
+If you are using the library in your work, please cite:  [https://doi.org/10.3389/frvir.2023.1248915](https://doi.org/10.3389/frvir.2023.1248915)
 
     @misc{do2023valid,
       title={VALID: A perceptually validated Virtual Avatar Library for Inclusion and Diversity}, 
