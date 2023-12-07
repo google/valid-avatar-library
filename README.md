@@ -12,16 +12,19 @@ The perception of each avatar's race and gender were evaluated on a global scale
 
 Additional metadata, including agreement rates disaggregated by all participant backgrounds, are found in the Metadata folder. As well as the summary of Validated-Labels https://github.com/google/valid-avatar-library/blob/main/Metadata/Agreement-Rates/Validated-Labels.csv Please read the paper for more detailed information. 
 
-If you are using the library in your work, please cite:  [https://doi.org/10.3389/frvir.2023.1248915](https://doi.org/10.3389/frvir.2023.1248915)
 
-    @misc{do2023valid,
-      title={VALID: A perceptually validated Virtual Avatar Library for Inclusion and Diversity}, 
-      author={Tiffany D. Do and Steve Zelenty and Mar Gonzalez-Franco and Ryan P. McMahan},
-      year={2023},
-      archivePrefix={Frontiers in Virtual Reality},
-      primaryClass={cs.HC},
-      doi={10.3389/frvir.2023.1248915}
-    }
+If you are using the library in your work, please cite the [paper](https://www.frontiersin.org/articles/10.3389/frvir.2023.1248915/full).
+
+    @article{do2023,
+    AUTHOR={Do, Tiffany D. and Zelenty, Steve and Gonzalez-Franco, Mar and McMahan, Ryan P.},   
+    TITLE={VALID: a perceptually validated Virtual Avatar Library for Inclusion and Diversity},      
+    JOURNAL={Frontiers in Virtual Reality},      
+    VOLUME={4},           
+    YEAR={2023},       
+    URL={https://www.frontiersin.org/articles/10.3389/frvir.2023.1248915},       
+    DOI={10.3389/frvir.2023.1248915},      
+    ISSN={2673-4192},    
+    ABSTRACT={As consumer adoption of immersive technologies grows, virtual avatars will play a prominent role in the future of social computing. However, as people begin to interact more frequently through virtual avatars, it is important to ensure that the research community has validated tools to evaluate the effects and consequences of such technologies. We present the first iteration of a new, freely available 3D avatar library called the Virtual Avatar Library for Inclusion and Diversity (VALID), which includes 210 fully rigged avatars with a focus on advancing racial diversity and inclusion. We also provide a detailed process for creating, iterating, and validating avatars of diversity. Through a large online study (n = 132) with participants from 33 countries, we provide statistically validated labels for each avatar’s perceived race and gender. Through our validation study, we also advance knowledge pertaining to the perception of an avatar’s race. In particular, we found that avatars of some races were more accurately identified by participants of the same race.}
 
 
 ## Setup
